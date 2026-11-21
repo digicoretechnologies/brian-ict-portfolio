@@ -27,8 +27,21 @@ I'm an ICT student passionate about technology, programming, networking and cybe
 - Develop networking and cybersecurity expertise.
 - Become a professional technology developer.
 
-## 📂 Projects
-My projects and learning activities will be published here.
+
+## 📂 My Projects
+
+### 1. C++ Simple Calculator
+A console-based calculator built using C++.
+
+Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Error handling
+
+[View Project](https://github.com/YOUR-USERNAME/cpp-simple-calculator)
+
 
 ## 📫 Connect With Me
 GitHub: [My GitHub Profile](https://github.com/)
